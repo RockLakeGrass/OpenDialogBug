@@ -1,0 +1,14 @@
+#app {
+  height: 100vh;
+  text-align: center;
+}
+
+.btn {
+  height: 30px;
+  line-height: 30px;
+  border-radius: 3px;
+  border: none;
+  margin: 150px 0 0 20px;
+  padding: 0 8px;
+  cursor: pointer;
+}
